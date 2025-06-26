@@ -106,7 +106,6 @@ Silakan download file lengkap dari Google Drive berikut:
 Isi folder:
 - ✅ Trained model (.pt)
 - ✅ Dataset contoh
-- ✅ Gambar uji coba
 - ✅ Script `.py` dan file lainnya
 
 ---
