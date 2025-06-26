@@ -1,4 +1,3 @@
-
 # 🧐 YOLO11 — Panduan Training & Deploy Model Deteksi Objek
 
 > 📺 **Tutorial Lengkap di YouTube**  
@@ -105,8 +104,7 @@ Silakan download file lengkap dari Google Drive berikut:
 
 Isi folder:
 - ✅ Trained model (.pt)
-- ✅ Dataset contoh
-- ✅ Script `.py` dan file lainnya
+- ✅ Dataset contoh dan file lainnya
 
 ---
 
