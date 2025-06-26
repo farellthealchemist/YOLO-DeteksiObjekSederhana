@@ -100,7 +100,7 @@ Karena GitHub membatasi ukuran file, file `.pt` model dan dataset **tidak disert
 
 Silakan download file lengkap dari Google Drive berikut:
 
-🔗 [📥 Google Drive Folder (YOLO11 Files)](https://drive.google.com/drive/folders/YOUR_FOLDER_ID_HERE)
+🔗 [📥 Google Drive Folder (YOLO11 Files)](https://drive.google.com/drive/folders/10FeY4dmFwLPoZbJVLZNuPy8spmi7BNMF?usp=sharing))
 
 Isi folder:
 - ✅ Trained model (.pt)
